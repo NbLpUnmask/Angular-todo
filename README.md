@@ -1,2 +1,3 @@
-# Angular-todo
+# Angular-todo Mon application
 Exercise DLH DevOps
+
